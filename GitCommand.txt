@@ -1,0 +1,11 @@
+git add
+add modified files into a staged state
+
+git commit
+the act of creating a snapshot
+
+git merge
+marge branch with updated fetures
+
+git clone
+cloning an existing git repo
